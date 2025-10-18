@@ -1,0 +1,5 @@
+# config.yml 示例
+baseURL: "https://guali.dpdns.org/"
+languageCode: "zh-cn"
+title: "科学吴老师の空间站"
+theme: "your-theme-name"  # 替换为实际主题名
